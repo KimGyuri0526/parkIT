@@ -13,8 +13,8 @@
 
 ## 2. 기술 스택
 ### Front-end
-- jQuery
 - JavaScript
+- jQuery
   
 ### Back-end
 - Java(JDK 11)
