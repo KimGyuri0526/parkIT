@@ -17,7 +17,7 @@
 - jQuery
   
 ### Back-end
-- Java(JDK 11)
+- Java 11
 - JSP
 - MySQL 8.0
 
