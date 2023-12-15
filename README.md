@@ -12,14 +12,14 @@
 <br>
 
 ## 2. 기술 스택
-### Front-end
-- JavaScript
-- jQuery
-  
 ### Back-end
 - Java 11
 - JSP
 - MySQL 8.0
+
+### Front-end
+- JavaScript
+- jQuery
 
 ### Server
 - Apache Tomcat 9.0
